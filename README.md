@@ -1,5 +1,5 @@
 # Modelling Greenhouse Gas Emissions in the Canadian Industrial Sector using Economic out and Energy usage.
-By Frank Kwaku Kuukyee and 	Olayinka Soremekun 
+  By Frank Kwaku Kuukyee and 	Olayinka Soremekun 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
